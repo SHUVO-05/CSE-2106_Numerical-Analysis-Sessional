@@ -24,7 +24,8 @@
 
 ## [Numerical Differentiation & Integration.]()
 - [Numerical Differenciation Forward.](https://github.com/SHUVO-05/CSE-2106_Numerical-Analysis-Sessional/blob/main/Numerical%20Differentiation%20Forward%20(1).cpp)
-- [Trapezoidal Rule Backward.](https://github.com/SHUVO-05/CSE-2106_Numerical-Analysis-Sessional/blob/main/Numerical%20Differentiation%20Backward.cpp)
+- [Numerical Differentiation Backward.](https://github.com/SHUVO-05/CSE-2106_Numerical-Analysis-Sessional/blob/main/Numerical%20Differentiation%20Backward.cpp)
+- [Trapezoidal Rule.]()
 - [Simpson's 1/3 Rule.]()
 - [Simpson's 3/8 Rule.]()
 
